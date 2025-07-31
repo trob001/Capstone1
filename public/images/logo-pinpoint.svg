@@ -1,0 +1,8 @@
+<svg width="120" height="120" viewBox="0 0 120 120" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Circle background -->
+  <circle cx="60" cy="60" r="58" fill="#005587" stroke="#ff6f00" stroke-width="4"></circle>
+
+  <!-- Pinpoint icon: A drop shape with a dot inside -->
+  <path d="M60 25C46 43 46 65 60 85C74 65 74 43 60 25Z" fill="white"></path>
+  <circle cx="60" cy="55" r="8" fill="#ff6f00"></circle>
+</svg>
